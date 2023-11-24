@@ -3,6 +3,7 @@ paul
 James
 linda
 james
+<<<<<<< HEAD
 chidima
 staging
 landmark my game changer
@@ -10,3 +11,6 @@ My game cganger for life landmark
 landmark is the game changer
 God is awesome
 beautiful
+=======
+ready for prod
+>>>>>>> 4972fb6 (app ready for prod)
